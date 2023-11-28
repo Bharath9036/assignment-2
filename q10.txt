@@ -1,0 +1,1 @@
+value of b and c are resectively 300 and 200
